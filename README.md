@@ -39,5 +39,6 @@ The directory structure of a generated Revel application:
 * The [Getting Started with Revel](http://revel.github.io/tutorial/gettingstarted.html).
 * The [Revel guides](http://revel.github.io/manual/index.html).
 * The [Revel sample apps](http://revel.github.io/examples/index.html).
-* The [API documentation](https://godoc.org/github.com/revel/revel).
+* The [API documentation](https://godoc.org/github.com/revel/   revel).
 
+## This is me learning Go by applying it to my final project at school. The node server I was using back then was ok but I was running into a lot of calculation issues. I think Go will be much better 
